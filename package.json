@@ -1,0 +1,20 @@
+{
+  "name": "scope-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrez1947/scope-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrez1947/scope-course/issues"
+  },
+  "homepage": "https://github.com/Andrez1947/scope-course#readme"
+}
