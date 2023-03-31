@@ -22,3 +22,4 @@ function myFunction() {
 myFunction();
 
 //En la función anterior, myFunction anida otra función parent que a su vez anida una función child.myFunction accede a la variante global y la propia, parent accede a su variable inner + my Number + myGlobal y child accede a todas.  
+
